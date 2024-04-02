@@ -19,6 +19,9 @@ def mul(a,b):
 def div(a,b):
   print (a/b)
 
+def mod(a,b):
+  print(a%b)
+
 a=float(input("enter the first no:"))
 b=float(input("enter the second no:"))
 op=input("enter the operator:")
